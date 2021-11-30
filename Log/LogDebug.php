@@ -6,7 +6,7 @@ class LogDebug
 	private $socetip = '45.80.70.119';
 	private $socetPort = 24792;
 	private $progectName = "VkMiniappBackend";
-	private $version = "2.2";
+	private $version = "2.3";
 
 	// config ELK
 	private $log_ELK_on_off = "on";			 // Отключение логирования ELR
